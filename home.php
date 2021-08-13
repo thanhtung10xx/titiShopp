@@ -39,7 +39,7 @@
                             <div class="dropdown-content">
                                 <?php if(!isset($_SESSION['firstName'])) echo "<a class='dropdown-item' href='login.php'>Sign In</a>"
                                ?>
-                                <?php if(!isset($_SESSION['firstName'])) echo "<a class='dropdown-item' href='dangky.php'>Sign Up</a>" 
+                                <?php if(!isset($_SESSION['firstName'])) echo "<a class='dropdown-item' href='signup.php'>Sign Up</a>" 
 								?> 
                                 <div class="dropdown-divider"></div>
                                 <?php if(isset($_SESSION['firstName'])) echo "<a class='dropdown-item' href='account.php'>My account</a>" 
