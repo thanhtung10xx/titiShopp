@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=FontAwesome');
+body{
+    background-color: beige;
+}
+.baoNgoai{
+    background-color: beige;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: 80px 0px 0px 270px;;
+    font-family: 'GFontAwesome';
+    border-width:2px;
+    border-style:solid;
+    border-color:black;
+    width: 800px;
+}
+.tieuDe{
+    font-size: 60px;
+}
+.khung{
+    margin-top: 50px;
+}
+.khung a{
+text-decoration: none;
+color: black;
+font-family: 'GFontAwesome';
+font-size: 30px;
+}
+.khung a:hover{
+    color: brown;
+}
