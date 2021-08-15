@@ -104,9 +104,9 @@
 
 
                     <tr>
-                        <td><input type="submit" class="btn btn-outline-success" name="add" value="Add User"></td>
-                        <td><input type="submit" class="btn btn-outline-success" name="edit" value="Edit User"></td>
-                        <td><input type="submit" class="btn btn-outline-warning" name="delete" value="Delete User"></td>
+                        <td><input style="background-color: green;" type="submit" class="btn btn-outline-success" name="add" value="Add User"></td>
+                        <td><input style="background-color: green;" type="submit" class="btn btn-outline-success" name="edit" value="Edit User"></td>
+                        <td><input style="background-color: green;" type="submit" class="btn btn-outline-success" name="delete" value="Delete User"></td>
                     </tr>
                 </table>
             </form>
